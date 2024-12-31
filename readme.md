@@ -1,1 +1,1 @@
-#### This script predicts the "keyword" of a course from its title using logistic regression. This is a multiclass classification problem. This app is deployed on Render as an API. Note: Use "uvicorn main:app --host 0.0.0.0 --port 80" in render start command while deploying.
+#### This script predicts the "keyword" of a course from its title using logistic regression. This is a multiclass classification problem. This app is deployed on Render as an API. Note: Use "uvicorn main:app --host 0.0.0.0 --port 80" in render start command while deploying. Use Postman to test the API.
